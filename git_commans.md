@@ -18,4 +18,4 @@ git commit:muestra una lista de todas las ramas presentes en el repositorio.
 
 git push:se usa para enviar los commits locales a un repositorio remoto, actualizando así la rama remota con los cambios realizados en la rama local. 
 
-git merge:se utiliza para combinar el historial de dos ramas . 
+git merge:se utiliza para combinar el historial de dos ramas. 
